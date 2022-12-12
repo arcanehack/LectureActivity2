@@ -1,0 +1,8 @@
+G:\My Drive\School Assignments\CSE445\Visual Studio Projects\LectureActivity2\LectureActivity2\SoapClient\bin\Debug\SoapClient.exe.config
+G:\My Drive\School Assignments\CSE445\Visual Studio Projects\LectureActivity2\LectureActivity2\SoapClient\bin\Debug\SoapClient.exe
+G:\My Drive\School Assignments\CSE445\Visual Studio Projects\LectureActivity2\LectureActivity2\SoapClient\bin\Debug\SoapClient.pdb
+G:\My Drive\School Assignments\CSE445\Visual Studio Projects\LectureActivity2\LectureActivity2\SoapClient\obj\Debug\SoapClient.csproj.SuggestedBindingRedirects.cache
+G:\My Drive\School Assignments\CSE445\Visual Studio Projects\LectureActivity2\LectureActivity2\SoapClient\obj\Debug\SoapClient.csproj.CoreCompileInputs.cache
+G:\My Drive\School Assignments\CSE445\Visual Studio Projects\LectureActivity2\LectureActivity2\SoapClient\obj\Debug\SoapClient.exe
+G:\My Drive\School Assignments\CSE445\Visual Studio Projects\LectureActivity2\LectureActivity2\SoapClient\obj\Debug\SoapClient.pdb
+G:\My Drive\School Assignments\CSE445\Visual Studio Projects\LectureActivity2\LectureActivity2\SoapClient\obj\Debug\SoapClient.csproj.AssemblyReference.cache
